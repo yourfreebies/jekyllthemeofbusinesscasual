@@ -16,7 +16,7 @@ To use this theme, choose one of the following options to get started:
 
 ## Bugs and Issues about jekyll theme business casual
 
-Email it to us here airrayagroup@gmail.com or fork and contribute [here](https://github.com/airrayagroupwebdesign/jekyllthemeofbusinesscasual)
+you can email us at airrayagroup@gmail.com or fork and contribute [here](https://github.com/airrayagroupwebdesign/jekyllthemeofbusinesscasual#fork-destination-box)
 
 ## Creator
 
