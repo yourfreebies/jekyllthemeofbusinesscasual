@@ -14,7 +14,7 @@
 									{{ post.excerpt }}
 									<div class="readmore" style="float: left;">
 									{% if post.content | post_contains_excerpt_tag %}
-									<a href="{{ post.url | prepend: site.baseurl }">Read more →</a>
+									<a href="{{ post.url | prepend: site.baseurl }}">Read more →</a>
 									{% endif %}
 									</div>
 								</li>
