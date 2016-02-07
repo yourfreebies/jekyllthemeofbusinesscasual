@@ -34,7 +34,6 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
 
-Jekyll version of Business Casual 
-Pictures from Airraya Group
-Copyright 2016 Airraya Group [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) - [Jekyll theme Business Casual demo](http://airrayagroupwebdesign.github.io/jekyllthemeofbusinesscasual/)
-Anybody is allowed to use the pictures from Airraya Group on jekyllthemebusinesscasual for personal or commercial purposes. No attribution is required. 
+* Pictures from Airraya Group
+* Jekyll version of Business Casual Copyright 2016 Airraya Group [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) - [Jekyll theme Business Casual demo](http://airrayagroupwebdesign.github.io/jekyllthemeofbusinesscasual/)
+* Anybody is allowed to use the pictures from Airraya Group on jekyllthemebusinesscasual for personal or commercial purposes. No attribution is required. 
