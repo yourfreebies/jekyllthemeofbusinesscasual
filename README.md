@@ -22,10 +22,8 @@ Jekyll theme version of business casual was created by
 [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) - [Jekyll theme Business Casual demo](http://airrayagroupwebdesign.github.io/jekyllthemeofbusinesscasual/)
 
 ## Copyright and License
-[Start Bootstrap](http://startbootstrap.com/) and [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
-### Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) - Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
 
-Jekyll version of Business Casual 
-### Copyright 2016 Airraya Group [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) and [Jekyll theme Business Casual demo](http://airrayagroupwebdesign.github.io/jekyllthemeofbusinesscasual/)
+Jekyll version of Business Casual - Copyright 2016 Airraya Group [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) and [Jekyll theme Business Casual demo](http://airrayagroupwebdesign.github.io/jekyllthemeofbusinesscasual/)
 * Pictures from Airraya Group
 * Anybody is allowed to use the pictures from Airraya Group on jekyllthemebusinesscasual for personal or commercial purposes. No attribution is required. 
