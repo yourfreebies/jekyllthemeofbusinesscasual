@@ -232,3 +232,22 @@ footer p {
 	margin-bottom: 20px;
 	}
 }
+.pagination ul > li > a:hover {
+    background-color: #2582F2;
+	color: #fff;
+}
+
+.pagination ul > li > a, .pagination ul > li > span {
+    display: inline;
+    padding: 5px 12px;
+    line-height: 35px;
+    text-decoration: none;
+    background-color: #ffffff;
+    border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.pagination ul > li {
+display: inline;
+}

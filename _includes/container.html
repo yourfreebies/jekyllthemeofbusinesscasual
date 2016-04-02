@@ -14,7 +14,7 @@
 									{{ post.excerpt }}
 									<div class="readmore" style="float: left;">
 									{% if post.content | post_contains_excerpt_tag %}
-									<a href="{{ post.url | prepend: site.baseurl }}">Read more →</a>
+									<a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
 									{% endif %}
 									</div>
 								</li>
@@ -31,17 +31,40 @@
 				</div>
 				<!-- Pagination links -->
 					<div class="pagination">
-					  {% if paginator.previous_page %}
-						<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-					  {% else %}
-						<span class="previous">Previous</span>
-					  {% endif %}
-					  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-					  {% if paginator.next_page %}
-						<a href="{{ paginator.next_page_path }}" class="next">Next</a>
-					  {% else %}
-						<span class="next ">Next</span>
-					  {% endif %}
+					  <ul>
+						{% if paginator.previous_page %}
+
+						  {% if paginator.previous_page == 1 %}
+							<li><a href="/">Previous</a></li>
+						  {% else %}
+							<li><a href="/page{{ paginator.previous_page }}">Previous</a></li>
+						  {% endif %}
+
+						{% else %}
+						  <li><span class="disabled">Previous</span></li>
+						{% endif %}
+
+						{% if paginator.page == 1 %}
+						  <li><span class="active">1</span></li>
+						{% else %}
+						  <li><a href="/">1</a></li>
+						{% endif %}
+
+						{% for count in (2..paginator.total_pages) %}
+
+						  {% if count == paginator.page %}
+							<li><span class="active">{{ count }}</span></li>
+						  {% else %}
+							<li><a href="/page{{ count }}">{{ count }}</a></li>
+						  {% endif %}
+						{% endfor %}
+
+						{% if paginator.next_page %}
+						  <li><a href="/page{{ paginator.next_page }}">Next</a></li>
+						{% else %}
+						  <li><span class="disabled">Next</span></li>
+						{% endif %}
+					  </ul>
 					</div>
             </div>
         </div>	
