@@ -4,7 +4,7 @@ Download it [here](https://github.com/airrayagroupwebdesign/jekyllthemeofbusines
 
 Based on [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
 
-Jekyll theme business casual [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) - [demo](http://businesscasual.yourfreebies.org/)
+Jekyll theme business casual [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) - [demo](http://www.yourfreebies.org/jekyllthemeofbusinesscasual)
 
 ## Getting Started
 
@@ -19,11 +19,11 @@ you can email us at airrayagroup@gmail.com or fork and contribute [here](https:/
 ## Creator
 
 Jekyll theme version of business casual was created by
-[Airraya Group Web Design] (http://webdesign.airrayagroup.com/) - [demo](http://businesscasual.yourfreebies.org/)
+[Airraya Group Web Design] (http://webdesign.airrayagroup.com/) - [demo](http://www.yourfreebies.org/jekyllthemeofbusinesscasual)
 
 ## Copyright and License
 [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) - Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
 
-Jekyll version of Business Casual - Copyright 2016 Airraya Group [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) and [demo](http://businesscasual.yourfreebies.org/)
+Jekyll version of Business Casual - Copyright 2016 Airraya Group [Airraya Group Web Design] (http://webdesign.airrayagroup.com/) and [demo](http://www.yourfreebies.org/jekyllthemeofbusinesscasual)
 * Pictures from Airraya Group
 * Anybody is allowed to use the pictures from Airraya Group on jekyllthemebusinesscasual for personal or commercial purposes. No attribution is required. 
