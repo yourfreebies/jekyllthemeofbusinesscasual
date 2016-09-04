@@ -7,7 +7,7 @@ categories: Tulip
 # Author.
 author: by Airraya Group
 ---
-![Tulip]({{ site.baseurl }}/assets/tulip2.png)
+![Tulip]({{ site.baseurl }}/jekyllthemeofbusinesscasual/assets/tulip2.png)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices porta ultrices. Nulla gravida commodo aliquet. Quisque tincidunt enim quis odio vestibulum, et luctus ipsum lacinia. Cras malesuada sit amet erat vitae porttitor. Duis vitae mollis eros. Vestibulum eget tortor sodales, ullamcorper odio ac, tincidunt felis. Nunc interdum, mauris vitae ornare bibendum, risus libero aliquam ex, cursus feugiat mi libero in nulla. Nullam vel pulvinar ante. Vivamus vitae est aliquet, porttitor eros ut, facilisis erat. Sed malesuada nibh odio, at egestas libero commodo vitae. Integer laoreet lorem ac iaculis fermentum.
 
 Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod dolor, non laoreet mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum metus lorem, dapibus ut purus ac, bibendum vulputate metus. Sed a lorem enim. Ut in pharetra dui.
