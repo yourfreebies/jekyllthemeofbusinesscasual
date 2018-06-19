@@ -4,7 +4,7 @@ Download it [here](https://github.com/airrayagroupwebdesign/jekyllthemeofbusines
 
 Based on [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
 
-Jekyll theme business casual [Air Raya Group] (http://www.airrayagroup.com/) - [demo](https://yourfreebies.github.io/jekyllthemeofbusinesscasual/)
+Jekyll theme business casual [Air Raya Group](http://www.airrayagroup.com/) - [demo](https://yourfreebies.github.io/jekyllthemeofbusinesscasual/)
 
 ## Getting Started
 
